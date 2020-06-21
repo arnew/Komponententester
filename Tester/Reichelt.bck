@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFU_1-1
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP PO6M+S
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP SMD_ZD
+D Zener diode
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library

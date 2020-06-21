@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Arne Wichmann\Notebooks\Komponententester\Tester\Tester.sch</source>
+    <date>20.06.2020 21:02:41</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Tester.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEE5ECB</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEE7057</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEE7622</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Rotary2x6</value>
+      <footprint>Reichelt:RND210-00068</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</datasheet>
+      <fields>
+        <field name="Vendor">RND 210-00068</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Rotary2x6" description="2 rotary switch with 6 positions"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEF3E6B</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Rotary3x4</value>
+      <footprint>Reichelt:RND210-00076</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</datasheet>
+      <fields>
+        <field name="Vendor">RND 210-00076</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Rotary3x4" description="3 rotary switches with 4 positions"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF04DB9</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>3V0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">SMD ZD 3,0</field>
+      </fields>
+      <libsource lib="Reichelt" part="SMD_ZD" description="Zener diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF25AE8</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>3V0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">SMD ZD 3,0</field>
+      </fields>
+      <libsource lib="Reichelt" part="SMD_ZD" description="Zener diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF2CA4C</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF3F4CF</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB3DC3</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB3DCA</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Vendor">UG 1094W1</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFB3DD1</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F03258D</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F04A914</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F04AD05</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0567F8</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F05C09D</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0682E6</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F068589</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F06A72C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F06ADFB</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Rotary2x6</value>
+      <footprint>Reichelt:RND210-00068</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</datasheet>
+      <fields>
+        <field name="Vendor">RND 210-00068</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Rotary2x6" description="2 rotary switch with 6 positions"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139CFF</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D0A</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D15</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D20</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>200R0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 BK</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D2B</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D37</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D42</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D4E</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D59</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>10K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D64</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>10K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F139D6F</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F15DD82</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>1K0 0W5 1%</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 155HP06 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F170771</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>NFU_1-1</value>
+      <footprint>Reichelt:NFU_1-1</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">NFU 1-1</field>
+      </fields>
+      <libsource lib="Reichelt" part="NFU_1-1" description="Transformer, single primary, single secondary"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1DEDA2</tstamp>
+    </comp>
+    <comp ref="T2">
+      <value>NFU_1-1</value>
+      <footprint>Reichelt:NFU_1-1</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">NFU 1-1</field>
+      </fields>
+      <libsource lib="Reichelt" part="NFU_1-1" description="Transformer, single primary, single secondary"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1E2048</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>0R01 5W 1%</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.52x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">ISA SMT-R010-1</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF10F32</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>0R01 5W 1%</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.52x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">ISA SMT-R010-1</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF1B8E7</tstamp>
+    </comp>
+    <comp ref="RV2">
+      <value>PO6M+S</value>
+      <footprint>Reichelt:PO6M+S</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">PO6M+S-LIN 47K</field>
+      </fields>
+      <libsource lib="Reichelt" part="PO6M+S" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFDED72</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>PO6M+S</value>
+      <footprint>Reichelt:PO6M+S</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">PO6M+S-LIN 47K</field>
+      </fields>
+      <libsource lib="Reichelt" part="PO6M+S" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F00AC32</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>SMDJ10CA</value>
+      <footprint>Diode_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">SMDJ10CA</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F04D88E</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>100R0 1W0 5%</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.52x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 1552512 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F05AAB1</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>100R0 1W0 5%</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.52x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">RND 1552512 AB</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0ABFCF</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>SMDJ10CA</value>
+      <footprint>Diode_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">SMDJ10CA</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0AC7EE</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0F5F5F</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0F6BAC</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x03_Female</value>
+      <footprint>TerminalBlock_WAGO:TerminalBlock_WAGO_236-403_1x03_P5.00mm_45Degree</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">WAGO 236-403</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F173653</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x03_Female</value>
+      <footprint>TerminalBlock_WAGO:TerminalBlock_WAGO_236-403_1x03_P5.00mm_45Degree</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">WAGO 236-403</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F18DCD9</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_02x12_Counter_Clockwise</value>
+      <footprint>Socket:DIP_Socket-24_W11.9_W12.7_W15.24_W17.78_W18.5_3M_224-1275-00-0602J</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Vendor">TEX 24</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Counter_Clockwise" description="Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F21811F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x12_Counter_Clockwise">
+      <description>Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x12_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reichelt" part="NFU_1-1">
+      <description>Transformer, single primary, single secondary</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">NFU_1-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AA" type="passive"/>
+        <pin num="3" name="AB" type="passive"/>
+        <pin num="4" name="SB" type="passive"/>
+        <pin num="6" name="SA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reichelt" part="PO6M+S">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">PO6M+S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reichelt" part="SMD_ZD">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMD_ZD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Rotary2x6">
+      <description>2 rotary switch with 6 positions</description>
+      <docs>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Rotary2x6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Rotary3x4">
+      <description>3 rotary switches with 4 positions</description>
+      <docs>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Rotary3x4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Jumper.lib</uri>
+    </library>
+    <library logical="Reichelt">
+      <uri>C:\Users\Arne Wichmann\Notebooks\Komponententester\Tester/Reichelt.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(RV2-Pad1)">
+      <node ref="RV2" pin="1"/>
+      <node ref="RV2" pin="5"/>
+    </net>
+    <net code="2" name="Net-(RV1-Pad3)">
+      <node ref="RV1" pin="3"/>
+    </net>
+    <net code="3" name="/I1">
+      <node ref="R23" pin="1"/>
+      <node ref="RV2" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="SW1" pin="13"/>
+    </net>
+    <net code="4" name="Net-(RV2-Pad3)">
+      <node ref="RV2" pin="3"/>
+    </net>
+    <net code="5" name="/T2">
+      <node ref="RV1" pin="4"/>
+      <node ref="T2" pin="6"/>
+      <node ref="D4" pin="1"/>
+      <node ref="SW2" pin="14"/>
+    </net>
+    <net code="6" name="/CR3">
+      <node ref="R22" pin="1"/>
+      <node ref="SW3" pin="12"/>
+    </net>
+    <net code="7" name="/CR2">
+      <node ref="SW3" pin="8"/>
+      <node ref="R22" pin="2"/>
+      <node ref="R21" pin="1"/>
+    </net>
+    <net code="8" name="/CR1">
+      <node ref="R21" pin="2"/>
+      <node ref="SW3" pin="4"/>
+    </net>
+    <net code="9" name="/CD3">
+      <node ref="D2" pin="3"/>
+      <node ref="SW3" pin="11"/>
+    </net>
+    <net code="10" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2"/>
+      <node ref="SW2" pin="3"/>
+    </net>
+    <net code="11" name="Net-(R14-Pad2)">
+      <node ref="R15" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="SW2" pin="4"/>
+    </net>
+    <net code="12" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="SW2" pin="5"/>
+    </net>
+    <net code="13" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="SW2" pin="6"/>
+    </net>
+    <net code="14" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="SW2" pin="12"/>
+    </net>
+    <net code="15" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1"/>
+      <node ref="SW2" pin="11"/>
+    </net>
+    <net code="16" name="Net-(R14-Pad1)">
+      <node ref="R15" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="SW2" pin="10"/>
+    </net>
+    <net code="17" name="Net-(R16-Pad1)">
+      <node ref="SW2" pin="9"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="18" name="Net-(JP2-Pad1)">
+      <node ref="JP2" pin="1"/>
+      <node ref="R26" pin="1"/>
+      <node ref="T2" pin="4"/>
+    </net>
+    <net code="19" name="/IN21">
+      <node ref="J2" pin="1"/>
+      <node ref="T2" pin="3"/>
+    </net>
+    <net code="20" name="/T1">
+      <node ref="RV2" pin="4"/>
+      <node ref="T1" pin="6"/>
+      <node ref="D3" pin="2"/>
+      <node ref="SW1" pin="14"/>
+    </net>
+    <net code="21" name="/IN11">
+      <node ref="T1" pin="3"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="22" name="Net-(RV1-Pad1)">
+      <node ref="RV1" pin="5"/>
+      <node ref="RV1" pin="1"/>
+    </net>
+    <net code="23" name="Net-(R17-Pad2)">
+      <node ref="SW2" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="24" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="25" name="/DUT12">
+      <node ref="SW3" pin="5"/>
+      <node ref="J7" pin="22"/>
+      <node ref="J7" pin="3"/>
+      <node ref="J8" pin="2"/>
+    </net>
+    <net code="26" name="/DUT11">
+      <node ref="J7" pin="2"/>
+      <node ref="J7" pin="24"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J7" pin="23"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="27" name="/DUT23">
+      <node ref="J7" pin="13"/>
+      <node ref="J7" pin="12"/>
+      <node ref="J7" pin="11"/>
+      <node ref="SW3" pin="10"/>
+      <node ref="J9" pin="3"/>
+      <node ref="J7" pin="14"/>
+    </net>
+    <net code="28" name="Net-(JP1-Pad1)">
+      <node ref="R25" pin="1"/>
+      <node ref="JP1" pin="1"/>
+      <node ref="T1" pin="4"/>
+    </net>
+    <net code="29" name="/I2">
+      <node ref="J5" pin="1"/>
+      <node ref="SW2" pin="13"/>
+      <node ref="RV1" pin="2"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="30" name="/DUT13">
+      <node ref="J7" pin="21"/>
+      <node ref="J7" pin="4"/>
+      <node ref="J7" pin="5"/>
+      <node ref="SW3" pin="9"/>
+      <node ref="J7" pin="20"/>
+      <node ref="J8" pin="3"/>
+    </net>
+    <net code="31" name="/DUT22">
+      <node ref="SW3" pin="6"/>
+      <node ref="J7" pin="10"/>
+      <node ref="J7" pin="15"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="32" name="/DUT21">
+      <node ref="SW3" pin="2"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J7" pin="17"/>
+      <node ref="J7" pin="16"/>
+      <node ref="J7" pin="9"/>
+      <node ref="J7" pin="8"/>
+    </net>
+    <net code="33" name="Net-(R2-Pad1)">
+      <node ref="SW2" pin="8"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="34" name="/CD2">
+      <node ref="SW3" pin="7"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="35" name="/V1">
+      <node ref="SW3" pin="13"/>
+      <node ref="D3" pin="1"/>
+      <node ref="JP1" pin="2"/>
+      <node ref="R25" pin="2"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="36" name="/CD1">
+      <node ref="D1" pin="3"/>
+      <node ref="SW3" pin="3"/>
+    </net>
+    <net code="37" name="/IN22">
+      <node ref="T2" pin="1"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="38" name="Net-(R8-Pad2)">
+      <node ref="SW1" pin="5"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="39" name="/V2">
+      <node ref="J6" pin="1"/>
+      <node ref="D4" pin="2"/>
+      <node ref="R26" pin="2"/>
+      <node ref="JP2" pin="2"/>
+      <node ref="SW3" pin="15"/>
+    </net>
+    <net code="40" name="/GND">
+      <node ref="J7" pin="7"/>
+      <node ref="J6" pin="2"/>
+      <node ref="SW3" pin="14"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J7" pin="19"/>
+      <node ref="J7" pin="18"/>
+      <node ref="J7" pin="6"/>
+      <node ref="J5" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="41" name="/IN12">
+      <node ref="T1" pin="1"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="42" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="SW1" pin="9"/>
+    </net>
+    <net code="43" name="Net-(R1-Pad1)">
+      <node ref="SW1" pin="8"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="44" name="Net-(R3-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="SW1" pin="7"/>
+    </net>
+    <net code="45" name="Net-(R5-Pad2)">
+      <node ref="SW1" pin="4"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="46" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2"/>
+      <node ref="SW1" pin="3"/>
+    </net>
+    <net code="47" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="48" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="SW1" pin="11"/>
+    </net>
+    <net code="49" name="Net-(R3-Pad2)">
+      <node ref="SW1" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="50" name="Net-(R17-Pad1)">
+      <node ref="SW2" pin="7"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="51" name="Net-(R2-Pad2)">
+      <node ref="R20" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="52" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1"/>
+      <node ref="SW1" pin="10"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="53" name="Net-(R1-Pad2)">
+      <node ref="R19" pin="1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="54" name="Net-(R10-Pad1)">
+      <node ref="SW1" pin="12"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="55" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="SW1" pin="6"/>
+    </net>
+  </nets>
+</export>
